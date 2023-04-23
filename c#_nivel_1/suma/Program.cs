@@ -4,7 +4,7 @@ class Program
     static void Main(string[] args)
     {
          int n1;
-            int n2,resultado;
+         int n2,resultado;
 
 
             Console.WriteLine("ingrese un numero");
